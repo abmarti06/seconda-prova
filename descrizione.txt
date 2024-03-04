@@ -1,2 +1,3 @@
 ciao, sono MARTINA
- e mi piace la programmazione
+ e mi piace la programmazione.
+ ho fatto delle operazioni su git 
